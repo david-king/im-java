@@ -1,0 +1,10 @@
+server:
+  port: 9201
+
+spring:
+  application:
+    name: im-gateway
+#  profiles:
+#    active: dev
+
+

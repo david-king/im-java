@@ -1,0 +1,20 @@
+server:
+  port: 9801
+
+spring:
+  application:
+    name: im-user-client
+#  profiles:
+#    active: dev
+
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full
+  hystrix:
+    enabled: true
+
+logging:
+  level:
+    com.yaoshuo.user.client.clients: debug

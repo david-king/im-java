@@ -1,0 +1,6 @@
+server:
+  port: 9301
+
+spring:
+  profiles:
+    active: dev
