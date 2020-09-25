@@ -1,4 +1,4 @@
-package com.yaoshuo.config;
+package com.yaoshuo.core.config;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.autoconfigure.ConfigurationCustomizer;

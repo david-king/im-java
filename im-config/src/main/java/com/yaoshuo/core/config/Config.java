@@ -1,4 +1,4 @@
-package com.yaoshuo.config;
+package com.yaoshuo.core.config;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
